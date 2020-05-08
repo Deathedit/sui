@@ -2,7 +2,7 @@
     "apps" : [
         {"name":"Nextcloud","url":"cloud.example.com","icon":"weather-cloudy"},
         {"name":"Plex","url":"play.example.com","icon":"plex"},
-        {"name":"Transmission","url":"dl.example.com","icon":"progress-download"},
+        {"name":"Transmission","url":"dl.example.com","icon":"deluge"},
         {"name":"Youtube-DL","url":"yt.example.com","icon":"youtube"}
     ]
 }
