@@ -1,4 +1,4 @@
-var data_links = "links.json";
+var data_links = "data/links.json";
   
 $(document).ready(function(){
   $.getJSON(data_links,
@@ -10,7 +10,7 @@ $(document).ready(function(){
   });
 });
 
-var data_apps = "apps.json";
+var data_apps = "data/apps.json";
   
 $(document).ready(function(){
   $.getJSON(data_apps,
@@ -22,7 +22,7 @@ $(document).ready(function(){
   });
 });
 
-var data_providers = "providers.json";
+var data_providers = "data/providers.json";
   
 $(document).ready(function(){
   $.getJSON(data_providers,
