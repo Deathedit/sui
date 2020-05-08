@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6e3fbacb-3e00-4cd9-a7bf-1d013f75532f/deploy-status)](https://app.netlify.com/sites/restproxy/deploys)
+
 ## SUI
 *a startpage for your server and / or new tab page*
 
