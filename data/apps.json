@@ -1,6 +1,6 @@
 {
     "apps" : [
-        {"name":"Nextcloud","url":"cloud.example.com","icon":"weather-cloudy"},
+        {"name":"Nextcloud","url":"nextcloud.restproxy.xyz","icon":"weather-cloudy"},
         {"name":"Plex","url":"app.plex.tv","icon":"plex"},
         {"name":"Transmission","url":"dl.example.com","icon":"progress-download"},
         {"name":"Youtube-DL","url":"yt.example.com","icon":"youtube"}
