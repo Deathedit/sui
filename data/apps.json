@@ -2,7 +2,7 @@
     "apps" : [
         {"name":"Nextcloud","url":"nextcloud.restproxy.xyz","icon":"weather-cloudy"},
         {"name":"Plex","url":"app.plex.tv","icon":"plex"},
-        {"name":"Transmission","url":"dl.example.com","icon":"progress-download"},
-        {"name":"Youtube-DL","url":"yt.example.com","icon":"youtube"}
+        {"name":"Deluge","url":"dl.example.com","icon":"progress-download"},
+        {"name":"Youtube-DL","url":"ytdl.restproxy.xyz","icon":"youtube"}
     ]
 }
